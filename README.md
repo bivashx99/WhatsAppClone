@@ -1,14 +1,11 @@
 # WhatsApp Clone
 
-<div align="center">
-  <img src="screenshots/app_logo.png" alt="WhatsApp Clone Logo" width="120"/>
-  <h3>A Modern WhatsApp UI Clone built with Jetpack Compose</h3>
-</div>
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="200" />
-  <img src="screenshots/screenshot2.png" width="200" /> 
-  <img src="screenshots/screenshot3.png" width="200" />
+  <img src="screenshots/home.jpeg" width="200" />
+  <img src="screenshots/status.png" width="200" /> 
+  <img src="screenshots/call.png" width="200" />
+  <img src="screenshots/chat.png" width="200" />
 </p>
 
 ## 📱 About
@@ -33,23 +30,6 @@ This project is a modern, visually enhanced clone of WhatsApp built entirely wit
 - [Navigation Compose](https://developer.android.com/jetpack/compose/navigation) - Navigation framework
 - [Coil](https://coil-kt.github.io/coil/) - Image loading library
 
-## 📷 Screenshots
-
-### Chats Screen
-![Chats Screen](screenshots/chats_screen.png)
-*Main conversation list with recent messages*
-
-### Chat Detail
-![Chat Detail](screenshots/chat_detail.png)
-*Individual conversation with interactive chat bubbles*
-
-### Status
-![Status Screen](screenshots/status_screen.png)
-*Status updates from contacts*
-
-### Calls
-![Calls Screen](screenshots/calls_screen.png)
-*Call history with video and audio calls*
 
 ## ⚙️ Getting Started
 
@@ -63,7 +43,7 @@ This project is a modern, visually enhanced clone of WhatsApp built entirely wit
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/bivashmallick/WhatsAppClone.git
+   git clone https://github.com/bivashx99/WhatsAppClone.git
    ```
 
 2. Open the project in Android Studio
@@ -106,16 +86,16 @@ app/
 This project and its contents, including all source code, designs, and assets, are the exclusive property of Bivash Mallick. Unauthorized use, reproduction, modification, distribution, or any form of exploitation of this project, in whole or in part, is strictly prohibited without the explicit written permission of the copyright holder.
 
 For permissions or inquiries, please contact:
-- Email: [your-email@example.com]
-- GitHub: [github.com/bivashmallick](https://github.com/bivashmallick)
+- Email: [official.bivashmallick@gmail.com]
+- GitHub: [github.com/bivashx99](https://github.com/bivashx99)
 
 ---
 
 <div align="center">
   <p>Designed and developed with ❤️ by Bivash Mallick</p>
   <p>
-    <a href="https://github.com/bivashmallick">GitHub</a> •
-    <a href="https://linkedin.com/in/bivashmallick">LinkedIn</a> •
-    <a href="https://twitter.com/bivashmallick">Twitter</a>
+    <a href="https://github.com/bivashx99">GitHub</a> •
+    <a href="https://facebook.com/in/bivashmallick">Facebook</a> •
+    <a href="https://twitter.com/BivashX">Twitter</a>
   </p>
 </div> 
