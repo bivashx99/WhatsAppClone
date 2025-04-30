@@ -86,7 +86,7 @@ app/
 This project and its contents, including all source code, designs, and assets, are the exclusive property of Bivash Mallick. Unauthorized use, reproduction, modification, distribution, or any form of exploitation of this project, in whole or in part, is strictly prohibited without the explicit written permission of the copyright holder.
 
 For permissions or inquiries, please contact:
-- Email: [official.bivashmallick@gmail.com]
+- Email: official.bivashmallick@gmail.com
 - GitHub: [github.com/bivashx99](https://github.com/bivashx99)
 
 ---
@@ -95,7 +95,5 @@ For permissions or inquiries, please contact:
   <p>Designed and developed with ❤️ by Bivash Mallick</p>
   <p>
     <a href="https://github.com/bivashx99">GitHub</a> •
-    <a href="https://facebook.com/in/bivashmallick">Facebook</a> •
-    <a href="https://twitter.com/BivashX">Twitter</a>
   </p>
 </div> 
