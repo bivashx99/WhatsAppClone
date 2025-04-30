@@ -92,7 +92,7 @@ For permissions or inquiries, please contact:
 ---
 
 <div align="center">
-  <p>Designed and developed with ❤️ by Bivash Mallick</p>
+  <p>Designed and developed with ❤️ by Bipul Bihari Mali</p>
   <p>
     <a href="https://github.com/bivashx99">GitHub</a>
   </p>
